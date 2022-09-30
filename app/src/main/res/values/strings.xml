@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_send">Say something</string>
+    <string name="default_message">Click button below!</string>
+    <string name="interact_message">You just clicked on the Button!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
